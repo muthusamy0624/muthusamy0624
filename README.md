@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muthusamy</h1>
+<h3 align="center">Flutter Developer | Java Programmer | PriceFX Enthusiast</h3>
 
-<!--
-**muthusamy0624/muthusamy0624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently working on Flutter eCommerce App  
+- 🌱 Learning Advanced Java & Cloud Computing  
+- 💬 Ask me about Flutter, Java, PriceFX  
+- ⚡ Fun fact: I love building real-world apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=muthusamy0624&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com/?user=muthusamy0624)
+
+---
+
+## 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthusamy0624)
+
+---
+
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muthusamy0624)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/muthusamy0624
+- LinkedIn: Add your LinkedIn link
