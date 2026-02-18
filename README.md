@@ -1,10 +1,10 @@
 <!-- PROFILE HEADER -->
 
 <h1 align="center">🚀 MUTHUSAMY M</h1>
-<h3 align="center">✨ IT Student | Flutter Developer | Java Enthusiast</h3>
+<h3 align="center">✨ IT Student | Flutter Developer | Java Enthusiast | Pricefx Configuration Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&width=600&lines=Building+Real+World+Apps;Java+DSA+Learner;Flutter+%2B+Firebase+Developer;Future+Full+Stack+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?center=true&width=600&lines=Building+Real+World+Apps;Java+DSA+Learner;Flutter+%2B+Firebase+Developer;Pricefx+Configuration+Engineer;Future+Full+Stack+Engineer"/>
 </p>
 
 ---
