@@ -1,40 +1,128 @@
-<h1 align="center">Hi 👋, I'm Muthusamy</h1>
-<h3 align="center">Flutter Developer | Java Programmer | PriceFX Enthusiast</h3>
+<!-- PROFILE HEADER -->
+
+<h1 align="center">🚀 MUTHUSAMY M</h1>
+<h3 align="center">✨ IT Student | Flutter Developer | Java Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&width=600&lines=Building+Real+World+Apps;Java+DSA+Learner;Flutter+%2B+Firebase+Developer;Future+Full+Stack+Engineer"/>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on Flutter eCommerce App  
-- 🌱 Learning Advanced Java & Cloud Computing  
-- 💬 Ask me about Flutter, Java, PriceFX  
-- ⚡ Fun fact: I love building real-world apps  
+# 🧠 Developer Snapshot
+
+```yaml
+Name: Muthusamy M
+Education: B.Tech IT (2022–2026)
+Location: India 🇮🇳
+Focus: App Development | Cloud | IoT | Data
+Goal: Become Full Stack Developer
+```
 
 ---
 
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+# ⚡ Tech Toolbox
+
+### 👨‍💻 Languages
+
+`Java` `C` `Dart`
+
+### 🌐 Web
+
+`HTML` `CSS` `JavaScript`
+
+### 📱 App Development
+
+`Flutter` `Firebase`
+
+### 🗄️ Database
+
+`SQL`
+
+### 🛠 Tools
+
+`Android Studio` `VS Code` `Arduino IDE` `Canva`
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=muthusamy0624&show_icons=true)
+# 🚀 Projects Zone
 
-![Streak](https://streak-stats.demolab.com/?user=muthusamy0624)
+<details>
+<summary>🍽️ Restaurant Recommendation System</summary>
+
+✔ HTML, CSS, JavaScript
+✔ User preference-based recommendations
+✔ UI + algorithm integration
+
+</details>
+
+<details>
+<summary>🚦 VANET Traffic Prevention (NS2)</summary>
+
+✔ Network simulation project
+✔ Traffic congestion reduction research
+✔ Access point data dissemination
+
+</details>
+
+<details>
+<summary>🧹 Smart Campus Cleanliness App</summary>
+
+✔ Flutter + Firebase app
+✔ Complaint notification system
+✔ Real-time campus monitoring
+
+</details>
 
 ---
 
-## 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthusamy0624)
+# 🏆 Achievements
+
+🥇 District Level Classical Dance Winner
+🥈 Code Debugging & Modelathon Runner-up
+🏅 NPTEL Elite Certification – Industry 4.0 & IIoT
 
 ---
 
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muthusamy0624)
+# 📚 Certifications
+
+✔ Programming in Java – NPTEL
+✔ IoT & Web 4.0 – NPTEL
+✔ DSA Training – Finest Coder
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/muthusamy0624
-- LinkedIn: Add your LinkedIn link
+# 💼 Internship
+
+**Low-Code Platform Intern — Pinesphere Solutions**
+
+✔ WordPress development
+✔ Rapid website deployment
+✔ Practical industry exposure
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=muthusamy0624&show_icons=true&theme=radical"/>
+<img src="https://streak-stats.demolab.com/?user=muthusamy0624&theme=radical"/>
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+📧 Email → [muthusamy0624@gmail.com](mailto:muthusamy0624@gmail.com)
+💼 LinkedIn → www.linkedin.com/in/muthusamy-m-ba3066258
+💻 GitHub → https://github.com/muthusamy0624
+
+---
+
+# 💡 Personal Motto
+
+> "Consistency beats talent when talent doesn’t work consistently."
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
